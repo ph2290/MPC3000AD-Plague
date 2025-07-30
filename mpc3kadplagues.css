@@ -22,8 +22,11 @@ svg {
   margin-right: auto;
   padding-top: 6vh;
   padding-bottom: 6vh;
-  padding-right: 6vh;
-  padding-left: 6vh;
+}
+@media only screen and (max-width: 600px){
+  svg {
+    height: 90vh;
+  }
 }
 .trigger {
             cursor: pointer; 
