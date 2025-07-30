@@ -15,7 +15,7 @@ video{
   z-index:-100;
 }
 svg {
-  height: clamp(550px, 100vh, 2000px); 
+  height: clamp(550px, 100vh, 900px); 
   width: auto;
   display: block;
   margin-left: auto;
@@ -34,7 +34,7 @@ p {
   font-size: 0.9em;
   padding-left: 10%;
   padding-right: 10%;
-  padding-top: 30%;
+  padding-top: 10vh;
   color: white;
 }
 #mySidebar {  
