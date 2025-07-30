@@ -25,8 +25,7 @@ svg {
 }
 @media only screen and (max-width: 1080px){
   svg {
-    height: 90vh;
-    width: 80vh;
+    height: 80vh;
   }
 }
 .trigger {
