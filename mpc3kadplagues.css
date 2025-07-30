@@ -15,7 +15,7 @@ video{
   z-index:-100;
 }
 svg {
-  height: clamp(800px, 100vh, 950px); 
+  height: 100vh; 
   width: auto;
   display: block;
   margin-left: auto;
