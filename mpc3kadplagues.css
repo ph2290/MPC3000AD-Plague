@@ -23,7 +23,7 @@ svg {
   padding-top: 6vh;
   padding-bottom: 6vh;
 }
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 768px){
   svg {
     height: 85px;
   }
