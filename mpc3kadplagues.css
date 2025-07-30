@@ -6,6 +6,7 @@ html, body {
 }
 video{
   position: fixed;
+  margin-top: -20px;
   right: 0;
   left: 0;
   top: 0;
@@ -37,7 +38,7 @@ svg {
 }
 p {
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 1em;
+  font-size: 0.95em;
   padding-left: 10%;
   padding-right: 10%;
   padding-top: 10vh;
