@@ -22,6 +22,8 @@ svg {
   margin-right: auto;
   padding-top: 6vh;
   padding-bottom: 6vh;
+  padding-right: 6vh;
+  padding-left: 6vh;
 }
 .trigger {
             cursor: pointer; 
