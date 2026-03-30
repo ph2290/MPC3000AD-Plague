@@ -44,10 +44,4 @@ p {
   padding-top: 6vh;
   color: white;
 }
-#mySidebar {  
-width: 22%; 
-height: 100%; 
-right:0; 
-background: rgba(0, 0, 0, .6); 
-position: absolute;
-}
+
