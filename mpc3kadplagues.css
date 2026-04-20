@@ -6,7 +6,6 @@ html, body {
 }
 video{
   position: fixed;
-  margin-top: -20px;
   right: 0;
   left: 0;
   top: 0;
